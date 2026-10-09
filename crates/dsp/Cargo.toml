@@ -1,0 +1,8 @@
+[package]
+name = "wunderkammer-dsp"
+description = "DSP engine for Wunderkammer WK-1, a two-channel cabinet of improbable sound objects"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]

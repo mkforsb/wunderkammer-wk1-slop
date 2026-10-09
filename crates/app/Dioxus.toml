@@ -1,0 +1,8 @@
+[application]
+name = "wunderkammer"
+
+[web.app]
+title = "Wunderkammer WK-1 · A Cabinet of Improbable Sound Objects"
+
+[web.watcher]
+watch_path = ["src", "assets", "../dsp/src", "../worklet/src"]
